@@ -1,4 +1,5 @@
 ## COMMAND SETUPS FOR CLEARING INGAME CHAT
+If your server members are annoyed due to the large batch of CHAT MESSAGES on the left top of the screen, this is for you. Clear ingame chats with ease using simple commands.
 
 ### [DISCORD SERVER](https://discord.gg/jrNxkpVaJU)
 
