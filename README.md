@@ -11,7 +11,8 @@ end, false)
 
 ### Command to Clear Chat for ENTIRE SERVER. Ex. Admin sends `/clearallchat` thus wiping chat for everyone at once. 
 ```
--- Paste this in any Server Sided FIle
+-- Paste this in any Server Sided File
+
 QBCore.Commands.Add("clearallchat", "Full Server Chat Clear", {}, false, function(source, args)
 		
 	TriggerClientEvent('chat:clear', -1)
