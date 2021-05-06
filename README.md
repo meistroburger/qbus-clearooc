@@ -1,5 +1,7 @@
 ## COMMAND SETUPS FOR CLEARING INGAME CHAT
 
+### [DISCORD SERVER](https://discord.gg/jrNxkpVaJU)
+
 ### Command to Clear Chat for Individual Players. Ex. If you enter `/clearooc`, it will clear only your chat. - To be PASTED in any Client File. 
 ```
 -- Paste this in any Client sided file 
